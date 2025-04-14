@@ -29,7 +29,6 @@ A modern, intuitive content management system designed for creators and business
 
 ### Installation
 
-```bash
 # Clone the repository
 git clone https://github.com/yourusername/flowmint-cms.git
 
