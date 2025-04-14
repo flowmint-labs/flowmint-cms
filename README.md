@@ -1,6 +1,6 @@
 # Flowmint CMS
 
-![Flowmint Hero Banner](https://placehold.co/1200x400/3b82f6/white?text=Flowmint+CMS+✨&font=montserrat)
+![Flowmint Hero Banner](https://placehold.co/1200x400/3b82f6/white?text=Flowmint+CMS+🚀&font=montserrat)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org/)
@@ -144,11 +144,11 @@ Please adhere to our code of conduct.
 Distributed under the MIT License. See LICENSE for more information.
 📬 Contact
 
-Project Maintainer: Your Name
-Email: your.email@example.com
-Twitter: @yourhandle
+Project Maintainer: Freddy
+Email: -
+Twitter: @0x_Freddy
 
-Project Link: https://github.com/yourusername/flowmint-cms
+Project Link: https://github.com/flowmint-labs/flowmint-cms
 🚧 Roadmap
 
     Initial landing page setup
