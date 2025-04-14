@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 98%; /* Off-white untuk light mode */
+  --foreground: 240 10% 10%; /* Abu-abu tua untuk teks */
+  --card: 0 0% 100%; /* Putih bersih untuk kartu */
+  --card-foreground: 240 10% 10%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 240 10% 10%;
+  --primary: 216 70% 50%; /* Biru lembut untuk tombol utama */
+  --primary-foreground: 0 0% 100%; /* Putih untuk teks di atas primary */
+  --secondary: 150 40% 70%; /* Hijau sage untuk aksen */
+  --secondary-foreground: 240 10% 10%;
+  --muted: 240 5% 90%; /* Abu-abu lembut untuk elemen sekunder */
+  --muted-foreground: 240 5% 50%;
+  --accent: 270 50% 80%; /* Ungu pastel untuk hover/fokus */
+  --accent-foreground: 240 10% 10%;
+  --destructive: 0 70% 60%; /* Merah koral untuk aksi berbahaya */
+  --destructive-foreground: 0 0% 100%;
+  --border: 240 5% 85%; /* Abu-abu halus untuk border */
+  --input: 240 5% 85%;
+  --ring: 216 70% 50%; /* Biru primary untuk fokus ring */
+  --radius: 0.75rem; /* Radius lebih lembut untuk modern */
+  --chart-1: 216 70% 50%; /* Biru lembut */
+  --chart-2: 150 40% 70%; /* Hijau sage */
+  --chart-3: 270 50% 80%; /* Ungu pastel */
+  --chart-4: 0 70% 60%; /* Merah koral */
+  --chart-5: 60 70% 70%; /* Kuning cerah untuk variasi */
+}
+
+.dark {
+  --background: 240 10% 10%; /* Abu-abu tua untuk dark mode */
+  --foreground: 0 0% 95%; /* Hampir putih untuk teks */
+  --card: 240 10% 15%; /* Sedikit lebih terang dari background */
+  --card-foreground: 0 0% 95%;
+  --popover: 240 10% 15%;
+  --popover-foreground: 0 0% 95%;
+  --primary: 216 70% 60%; /* Biru sedikit lebih cerah di dark mode */
+  --primary-foreground: 0 0% 100%;
+  --secondary: 150 40% 80%; /* Hijau sage lebih cerah */
+  --secondary-foreground: 0 0% 95%;
+  --muted: 240 5% 25%; /* Abu-abu gelap untuk elemen sekunder */
+  --muted-foreground: 240 5% 60%;
+  --accent: 270 50% 90%; /* Ungu pastel lebih cerah */
+  --accent-foreground: 0 0% 95%;
+  --destructive: 0 70% 70%; /* Merah koral lebih cerah */
+  --destructive-foreground: 0 0% 100%;
+  --border: 240 5% 30%; /* Border gelap */
+  --input: 240 5% 30%;
+  --ring: 216 70% 60%;
+  --chart-1: 216 70% 60%;
+  --chart-2: 150 40% 80%;
+  --chart-3: 270 50% 90%;
+  --chart-4: 0 70% 70%;
+  --chart-5: 60 70% 80%;
+}
